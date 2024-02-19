@@ -4,12 +4,11 @@
  */
 package com.mycompany.cajerocontrol;
 
+import com.mycompany.cajeropersistencia.conexion.IConexion;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import org.itson.bdaavanzadas.clubnauticopersistencia.conexion.Conexion;
-import org.itson.bdaavanzadas.clubnauticopersistencia.conexion.IConexion;
 
 /**
  *
